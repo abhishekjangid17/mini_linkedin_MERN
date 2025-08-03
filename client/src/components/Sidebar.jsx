@@ -9,7 +9,7 @@ const Sidebar = () => {
     }}>
       <div style={{ textAlign: 'center' }}>
         <img src={ProfileImg} alt="Profile" style={{ borderRadius: '5%', height:"100px" }} />
-        <h4>I_Want_Russian</h4>
+        <h4>Abhishek</h4>
         <p>Software Developer</p>
       </div>
       <hr />
